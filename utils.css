@@ -1,0 +1,19 @@
+.flex{
+display: flex;
+}
+.leftflex{
+    display: flex;
+}
+.rightflex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+.uppercase{
+    text-transform:uppercase ;
+}
+.bold{
+font-weight: bolder;
+}

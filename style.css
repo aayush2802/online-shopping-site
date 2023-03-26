@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+body{
+    font-family: 'Roboto Condensed';
+    
+}
+.logo{
+    height: 70px;
+width: 120px;
+padding:0px 10px;}
+nav{
+    padding: 20px;
+}
+header{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    box-shadow: 0px 5px 5px rgb(223, 217, 217);
+}
+.container{
+    margin: auto;
+    height: 100px;
+}
+nav ul li{
+     list-style:none ;
+     padding: 0px 15px ;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+input{
+    height: 50px;
+    font-size: 14px;
+    width: 250px;
+    margin-left: 250px;
+    background-image: url(https://cdn2.hubspot.net/hubfs/4004166/bioticresearch_website_assets/images/search_icon.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px;
+    border: 1px solid #dad2d2;
+}
+input:hover{
+    cursor: pointer;
+    
+}
+.margin2{
+    margin: 0px 8px;
+}
+.sectionimg{
+    width: 100%;
+}
+.headings{
+    margin: 100px 30px 50px 30px;
+font-size: 40px;}
+.dealsimg{
+    height: 270px;
+    width: 100%;
+}
